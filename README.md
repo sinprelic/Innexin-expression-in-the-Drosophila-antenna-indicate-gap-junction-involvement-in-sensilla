@@ -16,10 +16,10 @@ Published in ***Cell and Tissue Research***.
 
 | Stage | Date |
 |---|---|
-| Submitted | 07 November 2023 |
+| Submitted | November 7, 2023 |
 | Peer review |  |
-| Accepted | 25 July 2024 |
-| Published | 23 August 2024 |
+| Accepted | July 25, 2024 |
+| Published | August 23, 2024 |
 
 ## Links
 
@@ -84,11 +84,6 @@ Published in ***Cell and Tissue Research***.
 </details>
 
 ## Contributors
-
-SP and SLL conceptualized the study. SP designed all experiments. SP analyzed and compared gene expression data from RNA-seq studies, prepared whole and sectioned antennal specimens, and performed all immunofluorescence microscopy. IWK performed electrophysiology and single sensillum backfilling. SP wrote the manuscript and prepared all figures. SLL, DW, and BH provided comments for manuscript revisions. SP was supervised by DW and SLL. BH provided experimental resources.
-
-
-
 
 | Author | Contribution (manuscript) |
 |---|---|
