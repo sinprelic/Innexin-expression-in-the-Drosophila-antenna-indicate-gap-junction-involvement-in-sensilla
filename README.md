@@ -9,8 +9,10 @@
 
 ## Publication info
 
-[![Citations](https://img.shields.io/badge/Citations-2-005B9A)](https://link.springer.com/article/10.1007/s00441-024-03909-3/metrics) 
-[![Accesses](https://img.shields.io/badge/Accesses-4%2C198-005B9A)](https://link.springer.com/article/10.1007/s00441-024-03909-3/metrics) 
+[![Dimensions citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmetrics-api.dimensions.ai%2Fdoi%2F10.1007%2Fs00441-024-03909-3&query=%24.times_cited&label=Dimensions%20citations&color=purple)](https://badge.dimensions.ai/details/doi/10.1007/s00441-024-03909-3)
+[![OpenAlex citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW4401804494&query=%24.cited_by_count&label=OpenAlex%20citations&color=blue)](https://openalex.org/W4401804494)
+[![Springer Nature citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsinprelic%2FArticle-Metrics-Scraper%2Fmain%2Fdata%2Fmetrics.json&query=%24.articles.cell_tiss_res_innexin.citations&label=Springer%20Nature%20citations&color=green)](https://doi.org/10.1007/s00441-024-03909-3)
+[![Springer Nature accesses](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsinprelic%2FArticle-Metrics-Scraper%2Fmain%2Fdata%2Fmetrics.json&query=%24.articles.cell_tiss_res_innexin.accesses&label=Springer%20Nature%20accesses&color=green)](https://doi.org/10.1007/s00441-024-03909-3)
 
 Published in ***Cell and Tissue Research***.
 
