@@ -89,21 +89,21 @@ Published in ***Cell and Tissue Research***.
 
 | Author | Contribution (manuscript) |
 |---|---|
-| SP, SLL | Conceptualization |
-| SP | Experimental design |
-| SP | Data curation |
-| SP | Plotting, visualizations, figures |
-| SP | Writing - Original Draft Preparation |
-| SP, SLL, DW, BSH | Writing - Review & Editing |
-| DW, SLL | Supervision |
-| BSH | Resources |
+| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#4D5D16"><strong>SLL</strong></font> | Conceptualization |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Experimental design |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Data curation |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Plotting, visualizations, figures |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Writing - Original Draft Preparation |
+| <font color="#8B1E3F"><strong>SP</strong></font>, <font color="#4D5D16"><strong>SLL</strong></font>, <font color="#1F4E79"><strong>DW</strong></font>, <font color="#6A4C93"><strong>BSH</strong></font> | Writing - Review & Editing |
+| <font color="#1F4E79"><strong>DW</strong></font>, <font color="#4D5D16"><strong>SLL</strong></font> | Supervision |
+| <font color="#6A4C93"><strong>BSH</strong></font> | Resources |
 |  | **Investigation (experimental/methodology)** |
-| SP | Fly rearing |
-| SP | Transcriptomic analysis |
-| SP | Antennal specimen preparation (whole and sectioned) |
-| SP | Immunohistochemistry |
-| SP | Confocal fluorescence microscopy |
-| IWK | Electrophysiology-guided single sensillum backfilling |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Fly rearing |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Transcriptomic analysis |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Antennal specimen preparation (whole and sectioned) |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Immunohistochemistry |
+| <font color="#8B1E3F"><strong>SP</strong></font> | Confocal fluorescence microscopy |
+| <font color="#334155"><strong>IWK</strong></font> | Electrophysiology-guided single sensillum backfilling |
 
 | Funding |
 |---|
