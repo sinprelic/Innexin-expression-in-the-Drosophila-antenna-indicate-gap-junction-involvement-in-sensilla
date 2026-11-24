@@ -111,13 +111,13 @@ Published in ***Cell and Tissue Research***.
 | International Max Planck Research School (IMPRS) "Chemical Communication in Ecological Systems" |
 | Open Access funding enabled, organized by Projekt DEAL |
 
-| Special thanks |  |
-|---|---|
-| Kalpana Jain | Assistance with dissection, cryosectioning of antennae |
-| Reinhard Bauer | Innexin antibody provision |
-| Guy Tanentzapf | Innexin antibody provision |
-| Georg Ammer | Innexin antibody provision |
-| Craig Montell | Supplying `ASE5-Gal4` and `nompA-Gal4` transgenic fly lines |
+| Special thanks |
+|---|
+| Kalpana Jain (Assistance with dissection, cryosectioning of antennae) |
+| Reinhard Bauer (Innexin antibody provision) |
+| Guy Tanentzapf (Innexin antibody provision) |
+| Georg Ammer (Innexin antibody provision) |
+| Craig Montell (Supplying `ASE5-Gal4` and `nompA-Gal4` transgenic fly lines) |
 
 ## Citation
 
